@@ -1,2 +1,1 @@
-# Git Practice 
-This repo is for practicing Git. 
+# My Git Project 
