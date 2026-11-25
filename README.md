@@ -1,2 +1,5 @@
 
-# Bahaa's Git Practice ProjectFor contact details see contact.txt 
+
+# Bahaa's Git Practice Project
+
+For contact details see contact.txt
